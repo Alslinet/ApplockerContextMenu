@@ -1,7 +1,7 @@
 # ApplockerContextMenu
 Approve apps from windows context menu
 
-Run this script at your own risk.
+This is an experimental / proof of concept script to approve apps in applocker using the windows context menu. Use it at your own risk.
 
 1. Save files in %ProgramFiles%\Alslinet\ApplockerContextMenu\ folder
 2. Import Registry settings in ContextMenuRegistry.reg
