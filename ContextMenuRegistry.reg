@@ -1,0 +1,3 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\ApproveInApplocker]@="Approve in Applocker""HasLUAShield"="""Extended"=""
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\ApproveInApplocker\command]@="cmd /K PowerShell -ExecutionPolicy Bypass \"C:\\'program files'\\Alslinet\\ApplockerContextMenu\\LaunchScriptElevated.ps1 \\\"%1\\\""
